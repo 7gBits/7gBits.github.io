@@ -1,8 +1,0 @@
-@import "{{ site.theme }}";
-.github-button {
-  display: none !important;
-}
-
-footer {
-  display: none !important;
-}
